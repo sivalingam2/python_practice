@@ -5,5 +5,5 @@ y = "SivaLingam"
 b = y.upper()
 print(b)
 y = "SivaLingam"
-b = y.upper()
+b = y.lower()
 print(b)
