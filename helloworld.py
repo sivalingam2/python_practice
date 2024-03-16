@@ -11,7 +11,7 @@ print(b)
 c = "sivalingam devops engineer"
 d = c.split(" ")
 print(d)
- a = "great"
- b = "doble graete"
- c = a + " " + b
- print(c)
+a = "great"
+b = "doble graete"
+c = a + " " + b
+print(c)
