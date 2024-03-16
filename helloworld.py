@@ -5,11 +5,9 @@ y = "SivaLingam"
 b = y.upper()
 print(b)
 y = "SivaLingam"
-b = y.lower()
+b = y.replace("lingam2","sivalingam")
 print(b)
 # split
 c = "sivalingam devops engineer"
 d = c.split(" ")
-for x in d:
-    c = x[0]
-print(c)
+print(d)
