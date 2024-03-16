@@ -17,6 +17,5 @@
 # print(c)
 
 a = "python is awesome language"
-b = a[::4]
+b = a[::-1]
 print(b)
-
