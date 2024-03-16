@@ -1,6 +1,9 @@
 print("hello world")
 x = 'hello'
 print(type(x))
-y = "sivalingam"
+y = "SivaLingam"
+b = y.upper()
+print(b)
+y = "SivaLingam"
 b = y.upper()
 print(b)
