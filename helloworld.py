@@ -1,3 +1,3 @@
-print("hello world")
- a = "hello"
- print(type(a))
+# print("hello world")
+x = "hello"
+print(type(x))
