@@ -1,3 +1,3 @@
 # print("hello world")
-x = "hello"
+x = 'hello'
 print(type(x))
