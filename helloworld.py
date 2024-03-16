@@ -2,7 +2,7 @@ print("hello world")
 x = 'hello'
 print(type(x))
 y = "SivaLingam"
-b = y.len()
+b = len(y)
 print(b)
 y = "SivaLingam"
 b = y.replace("lingam2","sivalingam")
