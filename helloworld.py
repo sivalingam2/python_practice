@@ -7,3 +7,7 @@ print(b)
 y = "SivaLingam"
 b = y.lower()
 print(b)
+# split
+c = "sivalingam devops engineer"
+d = c.split(" ")
+print(d)
