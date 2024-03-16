@@ -17,5 +17,5 @@
 # print(c)
 
 a = "python is awesome language"
-b = a[::-1]
-print(b)
+c = "is"
+print(a.find(c))
