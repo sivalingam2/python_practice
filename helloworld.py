@@ -10,4 +10,6 @@ print(b)
 # split
 c = "sivalingam devops engineer"
 d = c.split(" ")
-print(d)
+for x in d:
+    c = x[0]
+print(c)
