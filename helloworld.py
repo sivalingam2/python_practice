@@ -15,3 +15,7 @@ a = "great"
 b = "doblegraete"
 c = a + " " + b
 print(c)
+
+a = "python is awesome language"
+b = a.replace("python", "java")
+print("modified text is", b)
