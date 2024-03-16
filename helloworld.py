@@ -17,5 +17,5 @@
 # print(c)
 
 a = "python is awesome language"
-c = "is"
+c = "a"
 print(a.find(c))
